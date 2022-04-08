@@ -6,6 +6,7 @@
 - [Graph Theory](https://github.com/rachna-ramkumar/Leetcode-Study-Plans/blob/main/index.md#graph-theory)
 - [Dynamic Programming](https://github.com/rachna-ramkumar/Leetcode-Study-Plans/blob/main/index.md#dynamic-programming)
 - [Binary Search](https://github.com/rachna-ramkumar/Leetcode-Study-Plans/blob/main/index.md#binary-search)
+- [SQL](https://github.com/rachna-ramkumar/Leetcode-Study-Plans/blob/main/index.md#sql)
 
 # Programming Skills
 
@@ -864,3 +865,111 @@
 302. Smallest Rectangle Enclosing Black Pixels
 1631. Path With Minimum Effort
 1782. Count Pairs Of Nodes
+
+# SQL
+
+## SQL I
+595. Big Countries
+1757. Recyclable and Low Fat Products
+584. Find Customer Referee
+183. Customers Who Never Order
+1873. Calculate Special Bonus
+627. Swap Salary
+196. Delete Duplicate Emails
+1667. Fix Names in a Table
+1484. Group Sold Products By The Date
+1527. Patients With a Condition
+1965. Employees With Missing Information
+1795. Rearrange Products Table
+608. Tree Node
+176. Second Highest Salary
+175. Combine Two Tables
+1581. Customer Who Visited but Did Not Make Any Transactions
+1148. Article Views I
+197. Rising Temperature
+607. Sales Person
+1141. User Activity for the Past 30 Days I
+1693. Daily Leads and Partners
+1729. Find Followers Count
+586. Customer Placing the Largest Number of Orders
+511. Game Play Analysis I
+1890. The Latest Login in 2020
+1741. Find Total Time Spent by Each Employee
+1393. Capital Gain/Loss
+1407. Top Travellers
+1158. Market Analysis I
+182. Duplicate Emails
+1050. Actors and Directors Who Cooperated At Least Three Times
+1587. Bank Account Summary II
+1084. Sales Analysis III
+
+## SQL II
+1699. Number of Calls Between Two Persons
+1251. Average Selling Price
+1571. Warehouse Manager
+1445. Apples & Oranges
+1193. Monthly Transactions I
+1633. Percentage of Users Attended a Contest
+1173. Immediate Food Delivery I
+1211. Queries Quality and Percentage
+1607. Sellers With No Sales
+619. Biggest Single Number
+1112. Highest Grade For Each Student
+1398. Customers Who Bought Products A and B but Not C
+1440. Evaluate Boolean Expression
+1264. Page Recommendations
+570. Managers with at Least 5 Direct Reports
+1303. Find the Team Size
+1280. Students and Examinations
+1501. Countries You Can Safely Invest In
+184. Department Highest Salary
+580. Count Student Number in Departments
+1294. Weather Type in Each Country
+626. Exchange Seats
+1783. Grand Slam Titles
+1164. Product Price at a Given Date
+603. Consecutive Available Seats
+1731. The Number of Employees Which Report to Each Employee
+1747. Leetflex Banned Accounts
+181. Employees Earning More Than Their Managers
+1459. Rectangles Area
+180. Consecutive Numbers
+1988. Find Cutoff Score for Each School
+1549. The Most Recent Orders for Each Product
+1321. Restaurant Growth
+1045. Customers Who Bought All Products
+1341. Movie Rating
+1867. Orders With Maximum Quantity Above Average
+550. Game Play Analysis IV
+262. Trips and Users
+
+## SQL III
+1303. Find the Team Size
+1308. Running Total for Different Genders
+1501. Countries You Can Safely Invest In
+1077. Project Employees III
+1549. The Most Recent Orders for Each Product
+1285. Find the Start and End Number of Continuous Ranges
+1596. The Most Frequently Ordered Products for Each Customer
+178. Rank Scores
+177. Nth Highest Salary
+1951. All the Pairs With the Maximum Number of Common Followers
+1709. Biggest Window Between Visits
+1949. Strong Friendship
+1532. The Most Recent Three Orders
+1126. Active Businesses
+1831. Maximum Transaction Each Day
+1613. Find the Missing IDs
+1270. All People Report to the Given Manager
+1369. Get the Second Most Recent Activity
+1412. Find the Quiet Students in All Exams
+1972. First and Last Call On the Same Day
+185. Department Top Three Salaries
+1767. Find the Subtasks That Did Not Execute
+1384. Total Sales Amount by Year
+569. Median Employee Salary
+571. Find Median Given Frequency of Numbers
+1225. Report Contiguous Dates
+1454. Active Users
+618. Students Report By Geography
+2010. The Number of Seniors and Juniors to Join the Company II
